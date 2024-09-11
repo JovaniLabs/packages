@@ -1,3 +1,11 @@
+"For this problem, equally as important as finding the packages is the process that you use to do so. In log.sql, keep a log of all SQL queries that you run on the database. Above each query, label each with a comment: in SQL, comments are any lines that begin with --, per the below:
+
+-- This is a SQL comment
+The comment should describe why you’re running the query and what information you’re hoping to get out of that particular query. You can use also comments to add additional notes about your thought process as you solve each mystery: ultimately, this file should serve as evidence of the process you used to find each package!
+
+Once you find the location of a package, complete each of the lines in answers.txt by filling in details about the location of the package, as well as its contents. Be sure not to change any of the existing text in the file or to add any other lines to the file!"
+
+
 "THE LOST LETTER"
 
 "Your first report of a missing package comes from Anneke. Anneke walks up to your counter and tells you the following:
